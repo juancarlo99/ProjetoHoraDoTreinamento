@@ -1,0 +1,44 @@
+	body{
+		color: white;
+	}
+	footer{
+			
+			padding: 10%;
+			
+			text-align: center;
+			background-color: #008CF7;
+			color: white;
+			
+		}
+		header{
+			background-color: #00192c;
+			color: white;
+			margin:2px;
+			padding: 5%;
+		}
+		#corpo{
+			;
+		}
+		.cadastros{
+			height: 90%;
+			margin:2px;
+			padding: 20%;
+			background-color:#003D6B;
+		}	
+		button{
+			margin-top: 2%;
+		}
+		.menu{
+			margin-top: 2%;
+
+		}
+		.gerar{
+			margin-top: 15%;
+		}
+		#consultar{
+			
+			margin-top: 2%;
+		}
+		h5{
+			color: black;
+		}
