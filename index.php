@@ -129,6 +129,7 @@ session_start(); ?>
 
 										$res_qtd_tipocf=$dado_turma_tipocf['qtd_tipo_cadastradascf'];
 										
+
 										
 										if ($res_qtd_tipocf<$qtd_max_aula) {
 											echo "<option>De Café</option>";
@@ -176,9 +177,9 @@ session_start(); ?>
 			$lotacao_turmas=$dado_turma_lotacao['total_lotacao']-1;
 			$qtd_alunos=$dado_alunos['qtd_alunos'];
 			
-			
 
-			if ($qtd_alunos>$lotacao_turmas) {
+
+			if ($qtd_alunos>$lotacao_turmas  ) {
 				?>
 				<button type="button" class="btn btn-outline-light btn-lg" data-toggle="modal" data-target="#modalCadastroAluno" disabled>
 					Cadastrar Aluno
