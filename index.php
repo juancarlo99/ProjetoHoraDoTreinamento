@@ -6,6 +6,9 @@ session_start(); ?>
 	<meta charset="UTF-8"/>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<meta name="description" content="Hora do Treinamento site de contrele de alunos" />
+	<meta name="keywords" content="Hora do Treinamento">
+	<meta name="autor" content="Juan Carlos Nunes">
 	<title>Hora do treinamento</title>
 	<link rel = "shortcut icon" type = "imagem/x-icon"  
 	href="img_projeto/foto_logo.ico" />
