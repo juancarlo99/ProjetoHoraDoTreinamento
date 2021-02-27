@@ -36,7 +36,7 @@
 	<img src="https://github.com/juancarlo99/ProjetoHoraDoTreinamento/blob/main/prints%20do%20projeto/cadastros.png"><br><br>
   <img src="https://github.com/juancarlo99/ProjetoHoraDoTreinamento/blob/main/prints%20do%20projeto/cadastro%20sala.png"><br>
 	<h2>Logo após faça o cadastro dos alunos</h2><br>
-	<img src="https://github.com/juancarlo99/ProjetoHoraDoTreinamento/blob/main/prints%20do%20projeto/consulta%20por%20aluno.png"><br>
+	<img src="https://github.com/juancarlo99/ProjetoHoraDoTreinamento/blob/main/prints%20do%20projeto/cadastro%20aluno.png"><br>
 	<h2>Feito isto faça a geração de turmas!</h2><br>
 	<img src="https://github.com/juancarlo99/ProjetoHoraDoTreinamento/blob/main/prints%20do%20projeto/gerar%20turmas.png"><br><br><br>
 	<h2>Depois que as turmas estão geradas voçê consegue consultar em qual turma e etapa os alunos vão estar</h2>
